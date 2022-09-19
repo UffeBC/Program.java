@@ -3,5 +3,6 @@ public class commit_øvelse {
         int a = 2 + 2;
     System.out.println(a);
     System.out.println("2");
+    int ten = 10;
     }
 }
