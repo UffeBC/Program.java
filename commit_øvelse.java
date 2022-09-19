@@ -4,5 +4,6 @@ public class commit_øvelse {
     System.out.println(a);
     System.out.println("2");
     int ten = 10;
+    System.out.println("45");
     }
 }
