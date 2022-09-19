@@ -7,6 +7,6 @@ public class commit_øvelse {
     int b = 3 + 3;
     System.out.println(b);
     int p = 27;
-
+    int x = 10;
     }
 }
