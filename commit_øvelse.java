@@ -8,5 +8,6 @@ public class commit_øvelse {
     System.out.println(b);
     int p = 27;
     int x = 10;
+    int xi = 11;
     }
 }
