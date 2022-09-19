@@ -6,5 +6,7 @@ public class commit_øvelse {
     System.out.println("2+2=4");
     int b = 3 + 3;
     System.out.println(b);
+    int p = 27;
+
     }
 }
